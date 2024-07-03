@@ -2,6 +2,8 @@ Documentation Running the Application Database Setup:
 
 Create a database named LibraryDB in your database management system MySQL.
 
+
+boot attachements
 Copy code 
 CREATE DATABASE LibraryDB; 
 paste in mySql
@@ -28,3 +30,6 @@ Copy code
 "author": "Author Name", 
 "publicationYear": 2023
  }
+
+ **** Note : The database is included if you would like to see the data structure and schema without installing the applicationat , DataBase Name : ( LibraryDB (1).sql ) with spring 
+
