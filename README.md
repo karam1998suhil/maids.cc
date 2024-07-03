@@ -31,6 +31,7 @@ Example:
 To retrieve all books: GET http://localhost:8080/api/books/
 To add a new book: POST http://localhost:8080/api/books/
 json
+
 Copy code
 {
   "title": "Book Title",
